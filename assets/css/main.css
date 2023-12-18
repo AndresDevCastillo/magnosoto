@@ -295,6 +295,12 @@ section {
     z-index: 9997;
   }
 
+  .page-title {
+    margin-top: 40px;
+    font-size: 50px;
+    color: var(--color-black);
+  }
+
   .navbar ul {
     display: none;
     position: absolute;
