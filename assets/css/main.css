@@ -115,19 +115,19 @@ section {
 # Header
 --------------------------------------------------------------*/
 .header {
-  height: 110px;
+  height: 90px;
   transition: all 0.5s;
   z-index: 997;
   background: #f2f2f2;
 }
 
 .header.sticked {
-  height: 110px;
+  height: 90px;
 }
 
 .header .logo img {
   position: relative;
-  width: 300px;
+  width: 160px;
 }
 
 .header .logo h1 {
@@ -166,7 +166,7 @@ section {
   }
 
   header span {
-    font-size: 40px;
+    font-size: 30px;
   }
 
 
@@ -323,7 +323,7 @@ section {
   }
 
   header span {
-    font-size: 40px;
+    font-size: 30px;
   }
 
 
